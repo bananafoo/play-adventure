@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "adventure",
+"dataUrl": "e9e6c25713d20df1ed3b3134bca8d3fa.unityweb",
+"wasmCodeUrl": "39eebdae688c487b452319f3a8b1d9f5.unityweb",
+"wasmFrameworkUrl": "b63b48f0c9f3573aad6faa5821857406.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
